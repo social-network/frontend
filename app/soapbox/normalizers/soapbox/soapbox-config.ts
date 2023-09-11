@@ -76,10 +76,10 @@ export const SoapboxConfigRecord = ImmutableRecord({
   logo: '',
   logoDarkMode: null,
   banner: '',
-  brandColor: '', // Empty
+  brandColor: '2496FF', // Empty
   accentColor: '',
   colors: ImmutableMap(),
-  copyright: `♥${new Date().getFullYear()}. Copying is an act of love. Please copy and share.`,
+  copyright: `♥${new Date().getFullYear()}. Regens of Earth.`,
   customCss: ImmutableList<string>(),
   defaultSettings: ImmutableMap<string, any>(),
   extensions: ImmutableMap(),

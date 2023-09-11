@@ -1,0 +1,29 @@
+{
+  "logo": "/instance/images/earth-logo.svg",
+  "brandColor": "#2496FF",
+  "promoPanel": {
+    "items": [{
+      "icon": "area-chart",
+      "text": "Our Site stats",
+      "url": "https://fediverse.network/the.social.network"
+    }, {
+      "icon": "comment-o",
+      "text": "Our Site blog",
+      "url": "https://social.network"
+    }]
+  },
+  "defaultSettings": {
+    "autoPlayGif": false,
+    "themeMode": "light"
+  },
+  "copyright": "♡2023 Regens of Earth.",
+  "navlinks": {
+    "homeFooter": [
+      { "title": "About", "url": "/about" },
+      { "title": "Terms of Service", "url": "/about/tos" },
+      { "title": "Privacy Policy", "url": "/about/privacy" },
+      { "title": "DMCA", "url": "/about/dmca" },
+      { "title": "Source Code", "url": "/about#opensource" }
+    ]
+  }
+}

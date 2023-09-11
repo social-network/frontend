@@ -20,7 +20,10 @@ const configuration: Configuration = {
   devtool: 'source-map',
   stats: 'errors-warnings',
   bail: true,
-  disableHostCheck: true,
+  
+  devServer: {
+    disableHostCheck: true
+  },
 
   output: {
     filename: 'packs/js/[name]-[chunkhash].js',

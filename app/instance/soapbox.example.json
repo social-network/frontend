@@ -1,22 +1,22 @@
 {
-  "logo": "/instance/images/soapbox-logo.svg",
-  "brandColor": "#0482d8",
+  "logo": "/instance/images/earth-logo.svg",
+  "brandColor": "#2496FF",
   "promoPanel": {
     "items": [{
       "icon": "area-chart",
       "text": "Our Site stats",
-      "url": "https://fediverse.network/example.com"
+      "url": "https://fediverse.network/the.social.network"
     }, {
       "icon": "comment-o",
       "text": "Our Site blog",
-      "url": "https://blog.example.com"
+      "url": "https://social.network"
     }]
   },
   "defaultSettings": {
     "autoPlayGif": false,
     "themeMode": "light"
   },
-  "copyright": "♡2020. Copying is an act of love. Please copy and share.",
+  "copyright": "♡2023 Regens of Earth.",
   "navlinks": {
     "homeFooter": [
       { "title": "About", "url": "/about" },

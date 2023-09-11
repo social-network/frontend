@@ -22,7 +22,7 @@ const configuration: Configuration = {
   bail: true,
   
   devServer: {
-    disableHostCheck: true
+    allowedHosts: "all"
   },
 
   output: {
